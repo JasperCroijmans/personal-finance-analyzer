@@ -1,0 +1,76 @@
+
+======================================================================
+               PERSONAL FINANCE ANALYZER
+                 FINAL STATISTICS REPORT
+======================================================================
+
+DATA OVERVIEW
+----------------------------------------------------------------------
+Total Transactions:        1,505
+Date Range:                2024-12-08 to 2025-12-08
+Days Covered:              365
+Unique Merchants:          388
+
+FINANCIAL SUMMARY
+----------------------------------------------------------------------
+Total Income:              €29,750.97
+Total Expenses:            €29,611.90
+Net Cashflow:              €139.07
+
+Average Transaction:       €39.44
+Median Transaction:        €12.21
+Largest Expense:           €-552.06
+Largest Income:            €1366.05
+
+CATEGORIZATION
+----------------------------------------------------------------------
+Total Categories:          23
+Categorization Rate:       100%
+ML Model Accuracy:         72.09%
+Prediction Confidence:     82.6%
+
+Top 5 Spending Categories:
+  1. rent                 €4,936.00
+  2. bar_cafe             €4,270.28
+  3. transport            €3,536.42
+  4. restaurant           €2,768.72
+  5. supermarket          €2,595.05
+
+ANOMALY DETECTION
+----------------------------------------------------------------------
+Total Anomalies Detected:  76 (5.0%)
+Statistical Method:        40
+ML Method (Iso Forest):    76
+High-Confidence:           40
+
+SPENDING PREDICTIONS
+----------------------------------------------------------------------
+Categories Predicted:      10
+Predicted Next Month:      €2,086.45
+Historical Average:        €207.11
+
+TIME PATTERNS
+----------------------------------------------------------------------
+Most Expensive Day:        Monday (€57.16 avg)
+Cheapest Day:              Sunday (€20.68 avg)
+Weekend vs Weekday:        19.7% of weekday spending
+
+TOP MERCHANTS
+----------------------------------------------------------------------
+By Spending:
+  1. M&L Italian B.V.               €9,674.25
+  2. A.P.J.Croymans eo Waam.Croyman €5,240.00
+  3. Dhr. Van de Wal                €4,936.00
+  4. DUO Hoofdrekening              €3,756.39
+  5. BELASTINGDIENST                €3,359.00
+
+By Frequency:
+  1. Albert Heijn 1382              94 transactions
+  2. NLO - TOTO iGaming             78 transactions
+  3. Kantine                        70 transactions
+  4. Caelum Supermarkt Erp          49 transactions
+  5. AAB INZ TIKKIE                 49 transactions
+
+======================================================================
+                      END OF REPORT
+======================================================================
