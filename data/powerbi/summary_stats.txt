@@ -1,0 +1,9 @@
+Metric	Value
+Total Transactions	1505
+Total Income	29750.97
+Total Expenses	29611.90
+Net Cashflow	139.07
+Current Balance	38.57
+Average Transaction	39.44
+Total Anomalies	76
+Unique Merchants	388
