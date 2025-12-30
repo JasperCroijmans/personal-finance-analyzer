@@ -36,5 +36,3 @@ Thumbs.db
 *.joblib
 *.h5
 
-# Power BI
-*.pbix
