@@ -74,7 +74,7 @@ RandomForestClassifier(
 **Training**: Historical monthly aggregated spending  
 
 **Performance**:
-- MAE: €[YOUR_MAE] average across categories
+- MAE: €81,01 average across categories
 - Categories predicted: 10 top spending categories
 
 **Output**: `data/processed/spending_predictions.csv`
